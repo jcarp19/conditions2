@@ -1,6 +1,6 @@
-let name1 = "Raymond";
-let name2 = "Charles";
-let name3 = "William";
+let name1 = "Jim";
+let name2 = "Kerri";
+let name3 = "Emily";
 
 let x = name1.length;
 let y = name2.length;
